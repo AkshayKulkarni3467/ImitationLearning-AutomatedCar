@@ -21,3 +21,11 @@ python test_agent.py --path dagger_models/{model_name}
 
 Visualization of car after receiving human input for 1 iteration:
 
+https://github.com/AkshayKulkarni3467/ImitationLearning-AutomatedCar/assets/129979542/01ab7925-9c96-4709-8690-07569cf04698
+
+Visualization of car after 8 iterations:
+
+https://github.com/AkshayKulkarni3467/ImitationLearning-AutomatedCar/assets/129979542/7bfc83bb-9635-41d8-987c-3da197db6248
+
+
+
